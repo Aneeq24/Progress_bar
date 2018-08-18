@@ -4,13 +4,7 @@
 Here comes a nice little breathing progress which you can show in your Android apps.
 # Customisations
 Customisations are under development. They will be here in near future.
-
-# Preview
-<img src="http://webianks.com/breathing_progress/breather.gif" height="700" width="400" >
-
 ## License
-
-```
 BreathingProgress library for Android
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
